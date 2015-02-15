@@ -13,7 +13,7 @@ ini_set("max_execution_time","86400");
 	echo $content;
     
     die;*/
-    //$_POST=$_GET;
+    $_POST=$_GET;
 
     include_once 'config.php';
 
